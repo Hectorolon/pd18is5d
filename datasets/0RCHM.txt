@@ -1,0 +1,11 @@
+		1RCHM	2RCHM	3RCHM
+
+Total		88	74	88
+
+Sin repetir	36	39	52
+
+No termine 
+silabas		-	-	-
+
+No termine
+chars		-	-	-
